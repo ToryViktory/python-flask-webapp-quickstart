@@ -1,4 +1,4 @@
 on: push
 jobs:
-  call-workflow:
-    uses: ToryViktory/DevOps_Automation/.github/workflows/build-workflow.yml@main
+  call-python-build-workflow:
+    uses: ToryViktory/DevOps_Automation/.github/workflows/python-build.yml@main
