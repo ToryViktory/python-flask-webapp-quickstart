@@ -1,4 +1,0 @@
-jobs:
-  call-workflow-passing-data:
-    uses: ToryViktory/DevOps_Automation/.github/workflows/build-workflow.yml@main
-W

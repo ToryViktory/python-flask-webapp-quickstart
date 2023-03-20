@@ -1,4 +1,4 @@
 on: push
 jobs:
-  call-workflow-passing-data:
-    uses: ToryViktory/DevOps_Automation/CI-CD/Python/GitHubActions/.github/workflows/build-workflow.yml@main
+  call-workflow:
+    uses: ToryViktory/DevOps_Automation/.github/workflows/build-workflow.yml@main
